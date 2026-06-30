@@ -1,0 +1,17 @@
+{
+  "name": "bento-cake-landing",
+  "version": "1.0.0",
+  "description": "Minimal pink bento cake local shop landing page powered by Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "landing-page",
+    "bento-cake",
+    "local-shop"
+  ],
+  "license": "MIT"
+}
